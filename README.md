@@ -3,11 +3,7 @@
 An engaging quiz application built with Flutter.
 
 ![App Icon](images/quizmas.png)
-![App Icon](images/screenshot 1.jpg)
-![App Icon](images/screenshot 2.jpg)
-![App Icon](images/screenshot 3.jpg)
-![App Icon](images/screenshot 4.jpg)
-![App Icon](images/screenshot 5.jpg)
+
 
 
 
@@ -28,11 +24,11 @@ An engaging quiz application built with Flutter.
 
 ## 📸 Screenshots
 
-![Screenshot][images/screenshot 1.jpg]
-![Screenshot][images/screenshot 2.jpg]
-![Screenshot][images/screenshot 3.jpg]
-![Screenshot][images/screenshot 4.jpg]
-![Screenshot][images/screenshot 5.jpg]
+![Screenshot][images/screenshot1.jpg]
+![Screenshot][images/screenshot2.jpg]
+![Screenshot][images/screenshot3.jpg]
+![Screenshot][images/screenshot4.jpg]
+![Screenshot][images/screenshot5.jpg]
 
 ## 🚀 Installation
 

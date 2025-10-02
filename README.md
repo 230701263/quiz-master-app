@@ -2,13 +2,15 @@
 
 An engaging quiz application built with Flutter.
 
-![App Icon](link-to-screenshot)
+![App Icon](images/quizmas.png)
+
+
 
 ## 📱 Download
 
 **Latest Version:** v1.0.0
 
-[⬇️ Download APK](https://github.com/230701263E/quiz-master-app/releases/latest)
+[⬇️ Download APK](https://github.com/230701263/quiz-master-app/releases/download/v1.0.0/Quiz.Master.apk)
 
 ## ✨ Features
 
@@ -21,11 +23,15 @@ An engaging quiz application built with Flutter.
 
 ## 📸 Screenshots
 
-[Add screenshots here]
+[images/screenshot 1.jpg]
+[images/screenshot 2.jpg]
+[images/screenshot 3.jpg]
+[images/screenshot 4.jpg]
+[images/screenshot 5.jpg]
 
 ## 🚀 Installation
 
-1. Download the latest APK from [Releases](https://github.com/230701263/quiz-master-app/releases)
+1. Download the latest APK from [Releases](https://github.com/230701263/quiz-master-app/releases/download/v1.0.0/Quiz.Master.apk)
 2. Enable "Install from Unknown Sources" on your Android device
 3. Open the downloaded APK file
 4. Follow the installation prompts
@@ -46,7 +52,7 @@ An engaging quiz application built with Flutter.
 ## 📞 Support
 
 Have questions or found a bug?
-- Open an [Issue](https://github.com/230701263/quiz-master-app/issues)
+- Open an [Issue](https://github.com/230701263/quiz-master-app/releases/download/v1.0.0/Quiz.Master.apk)
 - Contact: rrjoel.joel@gmail.com
 
 ## 📄 License

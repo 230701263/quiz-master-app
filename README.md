@@ -24,11 +24,12 @@ An engaging quiz application built with Flutter.
 
 ## 📸 Screenshots
 
-![Screenshot](images/screenshot 1.jpg)
-![Screenshot](images/screenshot 2.jpg)
-![Screenshot](images/screenshot 3.jpg)
-![Screenshot](images/screenshot 4.jpg)
-![Screenshot](images/screenshot 5.jpg)
+![Screenshot](images/screenshot-1.jpg)
+![Screenshot](images/screenshot-2.jpg)
+![Screenshot](images/screenshot-3.jpg)
+![Screenshot](images/screenshot-4.jpg)
+![Screenshot](images/screenshot-5.jpg)
+
 
 ## 🚀 Installation
 
